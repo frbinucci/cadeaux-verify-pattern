@@ -20,8 +20,8 @@ Tali dati dovranno essere passati ad uno degli script creati dai gruppi 1 e 2. I
 
 Gli script creati dai primi due gruppi restiuiranno il percorso del file eseguibile, il quale verrà salvato su un'apposita variabile. A questo punto lo script necessiterà di ulteriori input, in particolare:
 
-*Il file contenente gli input esemplari.
-*L'eseguibile di esempio.
+* Il file contenente gli input esemplari.
+* L'eseguibile di esempio.
 
 Gli input contenenti nel file verranno redirezionati all'eseguibile di esempio e all'eseguibile da correggere i quali, a loro volta, redirezioneranno i propri output in due file differenti.
 
