@@ -26,4 +26,3 @@ Gli script creati dai primi due gruppi restiuiranno il percorso del file eseguib
 Gli input contenenti nel file verranno redirezionati all'eseguibile di esempio e all'eseguibile da correggere i quali, a loro volta, redirezioneranno i propri output in due file differenti.
 
 
-
