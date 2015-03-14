@@ -9,12 +9,12 @@ Siccome gli output possono variare di molto a seconda di chi ha prodotto il codi
 
 ###REQUISITI
 ***
-Lo script necessita dei seguenti dati in input:
+Lo script necessita dei seguenti dati in input:  
 
-*Percorso della cartella generale degli utenti.
-*Percorso della cartella del singolo utente.
-*Percorso della cartella del progetto.
-*Nome del file da compilare.
+* Percorso della cartella generale degli utenti.
+* Percorso della cartella del singolo utente.
+* Percorso della cartella del progetto.
+* Nome del file da compilare.
 
 Tali dati dovranno essere passati ad uno degli script creati dai gruppi 1 e 2. In particolare, nel caso in cui il file da compilare abbia un'estensione .java, lo script richiamerà quello creato dal gruppo 1, nel caso in cui l'estensione sia .c richiamerà invece quello creato dal gruppo numero 2.
 
