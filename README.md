@@ -1,13 +1,13 @@
 ###PROGETTO CADEAUX
 
-####GRUPPO 4: VERIFICA PATTERN
+###GRUPPO 4: VERIFICA PATTERN
 
-##INFORMAZIONI GENERALI SULLO SCRIPT
+###INFORMAZIONI GENERALI SULLO SCRIPT
 ***
 Lo script consente di verificare quanti schemi (pattern) sono presenti nel file di output confrontando gli output prodotti dal codice da correggere con quelli previsti.
 Siccome gli output possono variare di molto a seconda di chi ha prodotto il codice, questo script consente di verificare che sul file di output siano presenti solamente gli elementi necessari per giudicare la correttezza dello script.
 
-##REQUISITI E FUNZIONAMENTO
+###REQUISITI E FUNZIONAMENTO
 ***
 Lo script necessita dei seguenti dati in input:  
 
