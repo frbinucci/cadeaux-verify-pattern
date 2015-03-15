@@ -38,8 +38,8 @@ esistere codici che restituiscono output non numerici*
 
 Al termine del ciclo vi sarà un controllo:
 
-* Se il numero di pattern trovati sarà uguale al numero di cicli eseguiti tutti i pattern sono stati trovati. Lo script restiuirà exit code 0.
-* Se il numero di pattern trovati sarà minore del numero di cicli eseguiti non tutti i pattern saranno stati trovati. Lo script restiuirà exit code 1.
-* Se il numero di pattern trovati sarà 0 il codice creato dallo studente sarà completamente errato. Lo script restiuirà exit code 2.
+* Se il numero di pattern trovati sarà uguale al numero di cicli eseguiti tutti i pattern sono stati trovati, lo script restiuirà exit code 0.
+* Se il numero di pattern trovati sarà minore del numero di cicli eseguiti non tutti i pattern saranno stati trovati, lo script restiuirà exit code 1.
+* Se il numero di pattern trovati sarà 0 il codice creato dallo studente sarà completamente errato, lo script restiuirà exit code 2.
 
 
