@@ -30,16 +30,19 @@ lo script necessiterà di ulteriori input, in particolare:
 Gli input contenenti nel file verranno redirezionati all'eseguibile "soluzione" e all'eseguibile da correggere i quali, a loro volta, redirezioneranno 
 i propri output in due file differenti.
 
-All'interno di un'apposita variabile verranno redirezionati i pattern presenti nel file di esempio e successivamente, tramite un ciclo for, si controllerà
-la presenza di ogni pattern nel file generato dal codice dello studente. Un'apposita variabile conta quanti pattern sono stati trovati.
+Il codice soluzione, creato dal docente, deve contenere solo ed esclusivamente gli output essenziali, i quali verranno salvati all'interno del file in cui
+verrà redirezionato l'output. Il contenuto di quest'ultimo file verrà redirezionato all'interno di un'apposita variabile (tramite il comando cat) e verrà quindi
+impostato un ciclo che controllerà se ogni pattern contenuto all'interno della variabile sarà presente all'interno del file contenente l'output prodotto dal 
+programma creato dallo studente (tramite il comando grep). Una variabile conterà il numero di cili, mentre un altra il numero delle corrispondenze trovate.
 
-La ricerca dei pattern avviene tramite la ricerca di dati di tipo numerico nel file di output "esemplare".
-*Quest'ultimo aspetto rimane da chiarire poichè possono esistere codici che restituiscono output non numerici.*
+*Problematica da risolvere: la redirezione dell'output dei programmi genera un file con caratteri di fine linea in formato Windows*
 
 Al termine del ciclo vi sarà un controllo:
 
 * Se il numero di pattern trovati sarà uguale al numero di cicli eseguiti tutti i pattern sono stati trovati, lo script restiuirà exit code 0.
 * Se il numero di pattern trovati sarà minore del numero di cicli eseguiti non tutti i pattern saranno stati trovati, lo script restiuirà exit code 1.
 * Se il numero di pattern trovati sarà 0 il codice creato dallo studente sarà completamente errato, lo script restiuirà exit code 2.
+
+
 
 
