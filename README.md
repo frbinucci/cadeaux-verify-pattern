@@ -33,8 +33,8 @@ i propri output in due file differenti.
 All'interno di un'apposita variabile verranno redirezionati i pattern presenti nel file di esempio e successivamente, tramite un ciclo for, si controllerà
 la presenza di ogni pattern nel file generato dal codice dello studente. Un'apposita variabile conta quanti pattern sono stati trovati.
 
-La ricerca dei pattern avviene tramite la ricerca di dati di tipo numerico nel file di output "esemplare" *Quest'ultimo aspetto rimane da chiarire poichè possono
-esistere codici che restituiscono output non numerici*
+La ricerca dei pattern avviene tramite la ricerca di dati di tipo numerico nel file di output "esemplare".
+*Quest'ultimo aspetto rimane da chiarire poichè possono esistere codici che restituiscono output non numerici.*
 
 Al termine del ciclo vi sarà un controllo:
 
