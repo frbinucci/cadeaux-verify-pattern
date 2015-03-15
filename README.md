@@ -49,24 +49,24 @@ Al termine del ciclo vi sarà un controllo:
 
 ####ARGOMENTI DA FORNIRE AGLI SCRIPT 1 O 2
 
-* Cartella contenente gli utenti
-* Cartella del singolo utente
-* Cartella del progetto
-* Nome del file da compilare
+* Cartella contenente gli utenti.
+* Cartella del singolo utente.
+* Cartella del progetto.
+* Nome del file da compilare.
 
 ####DATI PROVENIENTI DAGLI SCRIPT 1 O 2
 
-* Percorso del file eseguibile
+* Percorso del file eseguibile.
 
 ####DATI SPECIFICATI DALL'UTENTE
 
-* Percorso dell'eseguibile di esempio
-* Percorso del file contente gli input
+* Percorso dell'eseguibile di esempio.
+* Percorso del file contente gli input.
 
 ####OPERAZIONI NECESSARIE AL CORRETTO FUNZIONAMENTO DELLO SCRIPT
 
-* Il codice utilizzato come esempio dovrà fornire solo gli output indispensabili
-* Il carattere di fine linea dei file di output deve essere in formato UNIX
+* Il codice utilizzato come esempio dovrà fornire solo gli output indispensabili.
+* Il carattere di fine linea dei file di output deve essere in formato UNIX.
 
 
 
