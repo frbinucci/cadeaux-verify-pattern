@@ -43,6 +43,34 @@ Al termine del ciclo vi sarà un controllo:
 * Se il numero di pattern trovati sarà minore del numero di cicli eseguiti non tutti i pattern saranno stati trovati, lo script restiuirà exit code 1.
 * Se il numero di pattern trovati sarà 0 il codice creato dallo studente sarà completamente errato, lo script restiuirà exit code 2.
 
+###RIEPILOGO DEI REQUISITI NECESSARI
+
+***
+
+###ARGOMENTI DA FORNIRE AGLI SCRIPT 1 O 2
+
+* Cartella contenente gli utenti
+* Cartella del singolo utente
+* Cartella del progetto
+* Nome del file da compilare
+
+###DATI PROVENIENTI DAGLI SCRIPT 1 O 2
+
+* Percorso del file eseguibile
+
+###DATI SPECIFICATI DALL'UTENTE
+
+* Percorso dell'eseguibile di esempio
+* Percorso del file contente gli input
+
+###OPERAZIONI NECESSARIE AL CORRETTO FUNZIONAMENTO DELLO SCRIPT
+
+* Il codice utilizzato come esempio dovrà fornire solo gli output indispensabili
+* Il carattere di fine linea dei file di output deve essere in formato UNIX
+
+
+
+
 
 
 
